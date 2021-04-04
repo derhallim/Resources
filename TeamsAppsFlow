@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-04T20:41:56.187Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="htqkhvjFafQiYThr4odb" version="14.5.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-04T20:57:14.757Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="zlnQCBXk56X6_tiMMkE1" version="14.5.7" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1422" dy="1971" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1673" dy="2045" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -123,8 +123,11 @@
         <mxCell id="lki7zl1Zt1nVQ98h3ilv-31" value="Made By: &lt;br&gt;Mohamed Derhalli" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;rotation=-45;fontFamily=Garamond;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="635.95" y="1163.49" width="133.98" height="66.51" as="geometry" />
         </mxCell>
-        <mxCell id="lki7zl1Zt1nVQ98h3ilv-32" value="Upload Custom App To MS Teams Requirements" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontFamily=Garamond;fontStyle=1;fontSize=39;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="200" y="-20" width="890" height="20" as="geometry" />
+        <mxCell id="lki7zl1Zt1nVQ98h3ilv-32" value="Upload Custom App To MS Teams Requirements" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontFamily=Helvetica;fontStyle=1;fontSize=39;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="200" y="-20" width="960" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lki7zl1Zt1nVQ98h3ilv-33" value="Note: In all cases, Global &amp;amp; Teams admins can upload custom apps" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=19;fontStyle=2" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="10" y="1390" width="1245" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
